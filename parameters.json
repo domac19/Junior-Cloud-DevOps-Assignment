@@ -1,0 +1,42 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "sites_webappjunior1_name": {
+            "value": null
+        },
+        "sites_junior_webapp2_name": {
+            "value": null
+        },
+        "sites_junior_webapp3_name": {
+            "value": null
+        },
+        "servers_sqldevops_server_name": {
+            "value": null
+        },
+        "sites_newwebapp677236960_name": {
+            "value": null
+        },
+        "components_webappjunior1_name": {
+            "value": null
+        },
+        "components_junior_webapp2_name": {
+            "value": null
+        },
+        "components_junior_webapp3_name": {
+            "value": null
+        },
+        "serverfarms_junior_serviceplan1_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_7abb9008_db7a_445d_91f0_5b03acb17d20_NEU_externalid": {
+            "value": null
+        }
+    }
+}
